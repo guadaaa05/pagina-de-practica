@@ -1,0 +1,46 @@
+body{
+    height: 980px;
+    width: 700px;
+}
+h1{
+    text-align: center;
+}
+h3{
+    color: rgb(102, 99, 99);
+    font-family:'Merriweather', serif;
+}
+span{
+    color: rgb(23, 185, 226);
+}
+#icons{
+    display: flex;
+    justify-content: space-around;
+}
+h4{
+    font-family: 'Raleway', sans-serif;
+    text-transform: uppercase;
+    font-weight: lighter; 
+    text-align: center;
+    font-size: 15px;
+}
+li{
+    color: rgb(112, 111, 111);
+    list-style: none;
+    font-family: 'Raleway', sans-serif;
+}
+#pestañas{
+    width: 180px;
+    position: relative;
+    bottom: 9.3em;
+}
+#cabecera{
+    text-align: center;
+    position: relative; left: 13em;
+}
+.parrafo{
+    position: relative;left: 13em; bottom: 25em;
+}
+svg{
+    color: rgb(255, 76, 44);
+}
+
